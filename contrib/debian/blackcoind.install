@@ -1,0 +1,2 @@
+debian/bin/kodacoind usr/bin
+src/kodacoind usr/lib/kodacoin

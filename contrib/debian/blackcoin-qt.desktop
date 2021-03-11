@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kodacoin
+Comment=Kodacoin P2P Cryptocurrency
+Comment[fr]=Kodacoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Kodacoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/kodacoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/kodacoin;
+Categories=Office;
